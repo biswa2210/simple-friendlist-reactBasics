@@ -50,3 +50,5 @@ export default [
       facebook:'https://www.facebook.com/ankita.sikder.104',
   },
 ];
+/*Created By Biswarup Bhattacharjee*/
+/*Email :: bbiswa471@gmail.com*/

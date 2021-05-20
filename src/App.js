@@ -2,6 +2,12 @@ import React, { useState } from 'react';
 import data from './data';
 import List from './List';
 function App() {
+  /*
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+*/
+
   const [people, setPeople] = useState(data);
   return <main>
     <section className="container">

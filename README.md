@@ -1,6 +1,6 @@
 # SIMPLE-FRIENDLIST-REACTBASICS :fire: :sunglasses: :star_struck: :boy: :girl:
 
- [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/v%207.12.0-npm-blueviolet)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Advance-javascript-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/basic-react-blueviolet)](https://shields.io/) https://img.shields.io/badge/basic-react-blueviolet
+ [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/v%207.12.0-npm-blueviolet)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Advance-javascript-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/basic-react-blueviolet)](https://shields.io/) 
 
 ***This new WebPage named 'IPA-MEMBERS' is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 

@@ -1,4 +1,4 @@
-# SIMPLE-FRIENDLIST-REACTBASICS :star_struck: :boy: :girl:
+# SIMPLE-FRIENDLIST-REACTBASICS :fire: :sunglasses: :star_struck: :boy: :girl:
 
  [![Generic badge](https://img.shields.io/badge/advance-html5-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/v%207.12.0-npm-blueviolet)](https://shields.io/)  [![Generic badge](https://img.shields.io/badge/advance-css3-green)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Advance-javascript-orange)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Advance-javascript-orange)](https://shields.io/) https://img.shields.io/badge/basic-react-blueviolet
 

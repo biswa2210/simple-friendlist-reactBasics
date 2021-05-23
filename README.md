@@ -78,7 +78,9 @@ I have made this project using simple concepts of web development like html5, cs
 <div align="center">
   
 
-<a href="ipa.PNG"><img src="ipa.PNG" width="800" height= "400"></a> 
+<a href="ipa.PNG"><img src="ipa.PNG" width="800" height= "500"></a> 
+
+<a href="ipa1.PNG"><img src="ipa1.PNG" width="800" height= "500"></a> 
 </div>
 
 

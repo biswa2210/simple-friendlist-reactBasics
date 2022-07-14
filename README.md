@@ -37,6 +37,10 @@ It is a simple Webpage of a group of students in UEMK, of year 2019-23 studying 
 
 </details>
  
+## IPA DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=YMb7FqrDFhU&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5&index=4">Click here to watch</a>
+
+## WEB DEV PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=8_QAOpUdaIY&list=PL0lbDlMJ1h4hASHfEE-4cMS7CHRgtoxH5">Click here to watch</a>
+
 ## LINK : :point_right: https://ipa-members.netlify.app
 
 ## Purpose :point_down:
